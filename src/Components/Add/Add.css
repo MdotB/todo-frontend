@@ -1,0 +1,39 @@
+.Add-container {
+    color: white;
+    width: 50vw;
+    min-width: 375px;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.form {
+    width: 100%;
+    display: flex;
+}
+
+.form input {
+    /* color: white; */
+    background: rgba(211, 214, 221, 0);
+    border: none;
+    border-bottom: 3px solid white;
+    padding: 16px;
+    width: 100%;
+    font-size: 16px;
+}
+.form input:focus {
+    outline: none;
+}
+/* .form button {
+    color: #282c34;
+    padding: 16px;
+    font-size: 28px;
+    font-weight: 800;
+    background: black;
+    border: none;
+    border-bottom: 3px solid #282c34;
+    cursor: pointer;
+}
+.form button:hover {
+    color: black;
+    background: #282c34;
+} */

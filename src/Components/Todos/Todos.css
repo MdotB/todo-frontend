@@ -1,0 +1,21 @@
+.Todos-container {
+    color: white;
+    /* background: #d3d6dd; */
+    width: 50vw;
+    min-width: 375px;
+    max-width: 650px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+}
+
+.Todos-each {
+    color: #333;
+    background: #fff;
+    /* border: 3px solid #d3d6dd; */
+    padding: 16px;
+    cursor: pointer;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
